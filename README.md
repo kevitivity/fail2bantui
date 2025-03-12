@@ -18,10 +18,8 @@ This is a comprehensive ncurses-based TUI for managing fail2ban on Linux. Here's
    - Restart individual jails
    - Monitor jail statistics in real-time
 
-### Usage:
-1. Save the script to a file (e.g., `fail2ban_tui.py`)
-2. Make it executable: `chmod +x fail2ban_tui.py`
-3. Run with sudo: `sudo ./fail2ban_tui.py`
+
+ Run with sudo
 
 ### Navigation:
 - Use arrow keys to navigate
